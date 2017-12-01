@@ -1,0 +1,11 @@
+/Library/
+Library/
+UnityJump/Library/
+UnityJump/.vs
+UnityJump/Temp/
+*.pidb
+*.unityproj
+*.sln
+*.userprefs
+*.csproj
+.gitignore
